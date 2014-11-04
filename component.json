@@ -1,0 +1,15 @@
+{
+  "name": "image2canvas",
+  "repo": "staygrimm/image2Canvas",
+  "description": "Convert an image to a canvas element",
+  "version": "1.0.0",
+  "keywords": ["image", "canvas"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "author": "River Grimm <river.grimm@gmail.com>"
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

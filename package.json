@@ -1,0 +1,25 @@
+{
+  "name": "image2Canvas",
+  "version": "1.0.0",
+  "description": "convert an image element to a canvas element",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "duo": "^0.8.9",
+    "duo-test": "^0.3.11",
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "image",
+    "canvas",
+    "dom"
+  ],
+  "author": "River Grimm <river.grimm@gmail.com>",
+  "license": "MIT"
+}
