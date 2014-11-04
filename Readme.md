@@ -25,8 +25,8 @@ Mimics the [drawImage()](http://www.w3schools.com/tags/canvas_drawimage.asp) api
 
 ## Tests
 
-  git clone https://github.com/staygrimm/image2canvas
-  cd image2canvas && make test
+    git clone https://github.com/staygrimm/image2canvas
+    cd image2canvas && make test
 
 ## License
 
