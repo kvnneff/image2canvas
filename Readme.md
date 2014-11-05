@@ -8,6 +8,10 @@
   Install with [component(1)](http://component.io):
 
     $ component install staygrimm/image2canvas
+    
+  Install with [npm](http://npmjs.org):
+
+    $ npm install image2canvas
 
 ## API
 
