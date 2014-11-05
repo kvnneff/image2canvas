@@ -1,5 +1,5 @@
 {
-  "name": "image2Canvas",
+  "name": "image2canvas",
   "version": "1.0.0",
   "description": "convert an image element to a canvas element",
   "main": "index.js",

@@ -1,5 +1,5 @@
 
-# image2Canvas
+# image2canvas
 
   Convert an image to a canvas element.  Mimics the `context.drawImage()` method api.
 
