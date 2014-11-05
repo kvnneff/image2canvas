@@ -2,7 +2,7 @@
   "name": "image2canvas",
   "repo": "staygrimm/image2canvas",
   "description": "Convert an image to a canvas element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["image", "canvas"],
   "dependencies": {},
   "development": {},
