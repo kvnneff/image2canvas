@@ -15,18 +15,18 @@ Mimics the [drawImage()](http://www.w3schools.com/tags/canvas_drawimage.asp) api
 
 ##Example
 
-  var image2canvas = require('image2canvas');
-  var img = document.querySelector('#some-image') || '.OtherImage';
-
-  var canvas1 = image2canvas(img);
-  var canvas2 = image2canvas(img, 5, 5);
-  var canvas3 = image2canvas(img, 0, 0, 180, 180);
-  var canvas4 = image2canvas(img, 0, 0, 180, 180, 0, 0, 360, 360);
+    var image2canvas = require('image2canvas');
+    var img = document.querySelector('#some-image') || '.OtherImage';
+    
+    var canvas1 = image2canvas(img);
+    var canvas2 = image2canvas(img, 5, 5);
+    var canvas3 = image2canvas(img, 0, 0, 180, 180);
+    var canvas4 = image2canvas(img, 0, 0, 180, 180, 0, 0, 360, 360);
 
 ## Tests
 
-  git clone https://github.com/staygrimm/image2canvas
-  cd image2canvas && make test
+    git clone https://github.com/staygrimm/image2canvas
+    cd image2canvas && make test
 
 ## License
 
